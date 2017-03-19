@@ -1,5 +1,7 @@
 # Probot: Workflow
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/probot/workflow.svg)](https://greenkeeper.io/)
+
 > a GitHub Integration built with [probot](https://github.com/probot/probot) that enables workflow automation via `.probot.js` file in your repository.
 
 ## Installing
